@@ -1,5 +1,5 @@
 ![](img/screenshot-instagram.png)
 
-### <center>Recriando a página inicial do Instagram</center>
+### <p style="text-align: center;">Recriando a página inicial do Instagram</p>
 
 
